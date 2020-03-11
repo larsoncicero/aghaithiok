@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiemiara.mikeandnina.in/sitemap.xml
